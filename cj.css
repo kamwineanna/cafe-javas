@@ -1,0 +1,46 @@
+* {
+    padding: 0;
+    margin: 0;
+    align-items: center;
+}
+
+section{
+    background-image: url('coffee.jpeg') 
+    background-image: url('salad.jpeg');
+    background-image: url('Pancakes.jpeg');
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+}
+
+button {
+    border-radius: 6px;
+    padding: 30px 40px;
+    border: none;
+    background-color: #f60000;
+    color: #fff;
+    vertical-align: middle;
+}
+
+img {
+    width: 160px;
+}
+
+li {
+    color: white;
+    padding: 20px;
+    font-size: 30px;
+    list-style: none;
+
+}
+
+li {
+    margin-right: 20px;
+}
+
+.class.slider {
+
+    padding-inline-start: 20px;
+    position: bottom;
+}
