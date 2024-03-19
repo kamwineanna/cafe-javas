@@ -5,7 +5,7 @@
 }
 
 section{
-    background-image: url('coffee.jpeg') 
+    background-image: url('coffee.jpeg') ;
     background-image: url('salad.jpeg');
     background-image: url('Pancakes.jpeg');
     background-size: cover;
